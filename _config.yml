@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://hdlab.space
+url: https://emmautenteyey.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /plantilla-colecciones
+baseurl: /2seminario22-05-2026
 # location of code, the full url to your github repository
-source-code: https://github.com/hdlab.space/plantilla-colecciones
+source-code: https://github.com/emmautenteyey/2seminario22-05-2026
 
 ##########
 # SITE SETTINGS
